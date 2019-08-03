@@ -1,5 +1,5 @@
 Line 1
-Line 2
+This is line 2
 Another line
-Yet another line
+Yet another line of text
 blah blah blah
