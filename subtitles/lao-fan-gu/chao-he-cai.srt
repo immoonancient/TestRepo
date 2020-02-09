@@ -864,4 +864,4 @@ Let Er Bo have a bite of it, umm it's so good
 # 师父来一口
 Have a bite Master
 
-# import ending.sbv 0:07:31,200
+# import ending.srt 0:07:31,200
