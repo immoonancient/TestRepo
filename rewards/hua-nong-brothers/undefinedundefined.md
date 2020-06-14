@@ -1,0 +1,9 @@
+# 华农兄弟 2020 年 5 月贡献统计表
+
+| id | 投稿 | 审核 |
+| -- | --- | --- |
+| [@vincenthychow](https://github.com/vincenthychow) | [#996](/../../issues/996) [#1000](/../../issues/1000) [#1003](/../../issues/1003) [#1009](/../../issues/1009) [#1017](/../../issues/1017) [#1022](/../../issues/1022) [#1029](/../../issues/1029) [#1038](/../../issues/1038) [#1041](/../../issues/1041) [#1049](/../../issues/1049) [#1056](/../../issues/1056) [#1059](/../../issues/1059) [#1077](/../../issues/1077) [#1109](/../../issues/1109) | |
+| [@immoonancient](https://github.com/immoonancient) | | [#997](/../../issues/997) [#1040](/../../issues/1040) [#1061](/../../issues/1061) [#1010](/../../issues/1010) [#1058](/../../issues/1058) [#1078](/../../issues/1078) [#1020](/../../issues/1020) [#1045](/../../issues/1045) [#1051](/../../issues/1051) |
+| [@NoraZheng](https://github.com/NoraZheng) | | [#1026](/../../issues/1026) [#1004](/../../issues/1004) [#1001](/../../issues/1001) [#1033](/../../issues/1033) |
+| [@Yingzhang1122](https://github.com/Yingzhang1122) | | [#1111](/../../issues/1111) |
+| [@Katvava](https://github.com/Katvava) | | [#1051](/../../issues/1051) |
